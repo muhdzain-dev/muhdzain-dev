@@ -21,3 +21,5 @@
    <li>Portfolio Website: <a href="https://mzain.dev/" target="_blank">mzain.dev</a></li>
 </ul>
 
+<h3>💻 Tech Stack</h3>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
