@@ -3,6 +3,7 @@
   <h2>Full Stack Software Developer 🧑‍💻</h2>
 </div>
 
+<h3>😎 About Me</h3>
 <ul>
   <li>🔭 <strong>I’m currently working on:</strong> <em>ASP.NET CORE | REACT | SQL SERVER | MERN STACK</em></li>
   <li>🌱 <strong>I’m currently learning:</strong> <em>AI & Machine Learning | Cloud Solution <strong>AZURE</strong></em></li>
