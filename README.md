@@ -8,8 +8,8 @@
   <li>🌱 <strong>I’m currently learning:</strong> <em>AI & Machine Learning | Cloud Solution <strong>AZURE</strong></em></li>
   <li>👯 <strong>I’m looking to collaborate on:</strong> <em>Open-source projects in full-stack development, especially those involving ASP.NET, React, or Angular.</em></li>
   <li>💬 <strong>Ask me about:</strong> <em>Software architecture, API integration, and how to optimize front-end/back-end performance using Solid Principles and Agile methodologies.</em></li>
-  <li>😄 <strong>Pronouns:</strong> He/Him</li>
-  <li>⚡ <strong>Fun fact:</strong> I enjoy automating daily tasks and am always on the lookout for ways to optimize processes, both in life and code!</li>
+ 
+  <li>⚡ <strong>Fitness Journey:</strong> I started my fitness journey to improve my health, and now I enjoy lifting heavier weights every month!</li>
 </ul>
 
 <h3>📫 How to reach me:</h3>
