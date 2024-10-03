@@ -9,7 +9,7 @@
   <li>👯 <strong>I’m looking to collaborate on:</strong> <em>Open-source projects in full-stack development, especially those involving ASP.NET, React, or Angular.</em></li>
   <li>💬 <strong>Ask me about:</strong> <em>Software architecture, API integration, and how to optimize front-end/back-end performance using Solid Principles and Agile methodologies.</em></li>
  
-  <li>⚡ <strong>Fitness Journey:</strong> I started my fitness journey to improve my health, and now I enjoy lifting heavier weights every month!</li>
+  <li>⚡ <strong>Fitness Journey:</strong><em> I started my fitness journey to improve my health, and now I enjoy lifting heavier weights every month! </em></li>
 </ul>
 
 <h3>📫 How to reach me:</h3>
